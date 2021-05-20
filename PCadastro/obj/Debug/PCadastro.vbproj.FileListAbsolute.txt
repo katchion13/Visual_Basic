@@ -1,0 +1,31 @@
+C:\PCadastro\PCadastro\bin\Debug\PCadastro.exe
+C:\PCadastro\PCadastro\bin\Debug\PCadastro.pdb
+C:\PCadastro\PCadastro\bin\Debug\PCadastro.xml
+C:\PCadastro\PCadastro\obj\Debug\ResolveAssemblyReference.cache
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.FCliente.resources
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.Resources.resources
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.vbproj.GenerateResource.Cache
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.exe
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.xml
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.pdb
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.FProduto.resources
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.FMenu.resources
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.FVenda.resources
+C:\PCadastro\PCadastro\obj\Debug\PCadastro.FVenda2.resources
+D:\PCadastro\PCadastro\obj\Debug\PCadastro.exe
+D:\PCadastro\PCadastro\obj\Debug\PCadastro.xml
+D:\PCadastro\PCadastro\obj\Debug\PCadastro.pdb
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.exe
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.xml
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.pdb
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\bin\Debug\PCadastro.exe
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\bin\Debug\PCadastro.pdb
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\bin\Debug\PCadastro.xml
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\ResolveAssemblyReference.cache
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.FCliente.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.FMenu.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.FProduto.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.FVenda.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.FVenda2.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.Resources.resources
+D:\!!!Programação!!!\2º Módulo\Programação\PCadastro\PCadastro\obj\Debug\PCadastro.vbproj.GenerateResource.Cache
